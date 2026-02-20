@@ -4,7 +4,7 @@
 
 ### Contact & Links
 
-- 📧 **Email:** [your.email@gmail.com]
+- 📧 **Email:** ziziphodamane@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/yourprofile]
 - 🔗 **Project Link:** [github.com/yourusername/project-3-amazon-sales]
 
