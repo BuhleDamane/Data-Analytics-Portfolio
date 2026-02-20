@@ -39,7 +39,10 @@ The short answer to that last question: almost perfectly. Every country in the l
 
 ### Visualization 1 — Top 10 Most Unequal vs Most Equal Countries (2021)
 
-![Visualization 1]<img width="913" height="568" alt="top10_most_unequal" src="https://github.com/user-attachments/assets/3c2d0495-a22b-4bb4-8b57-0f2f8cd5779f" />
+![Visualization 1]
+
+<img width="913" height="568" alt="top10Unequal vs top10equal" src="https://github.com/user-attachments/assets/82efba96-d8e6-4045-ae10-647321bfc678" />
+
 
 
 **What is shown here:**
