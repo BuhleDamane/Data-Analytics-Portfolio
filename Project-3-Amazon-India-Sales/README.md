@@ -5,8 +5,8 @@
 ### Contact & Links
 
 - 📧 **Email:** ziziphodamane@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile]
-- 🔗 **Project Link:** [github.com/yourusername/project-3-amazon-sales]
+- 💼 **LinkedIn:** [Buhle Damane](https://www.linkedin.com/in/buhle-damane)
+- 🌐 **Portfolio:** [strong-marigold-ded066.netlify.app](https://strong-marigold-ded066.netlify.app/)
 
 ---
 
@@ -35,7 +35,8 @@ The Tableau dashboard brings the written findings to life visually — turning q
 
 ### Visualization 1 — Executive KPI Summary Panel
 
-![Visualization 1](images/KPI Summary Panel.png)
+<img width="828" height="568" alt="KPI Summary Panel" src="https://github.com/user-attachments/assets/23b38d77-7de5-4259-9f4e-91497884cb26" />
+
 
 **What is shown here:**
 A top-level KPI banner displaying the four most important business metrics at a glance: Total Orders (120,378), Total Revenue (₹78.6M), Cancellation Rate (14.21%), and Average Order Value (₹609.36).
@@ -47,10 +48,11 @@ Every business analysis needs an entry point — a set of numbers that tells you
 
 ### Visualization 2 — Revenue by Product Category
 
-![Visualization 2](images/viz2.png)
+<img width="913" height="568" alt="revenue by category" src="https://github.com/user-attachments/assets/5be0b770-a8f3-43db-875d-5e05cb4119ba" />
+
 
 **What is shown here:**
-A bar or donut chart breaking down total shipped revenue by product category. The Set category dominates at 49.87%, followed by Kurta at 27.13% and Western Dress at 14.19%.
+A bar chart breaking down total shipped revenue by product category. The Set category dominates at 49.87%, followed by Kurta at 27.13% and Western Dress at 14.19%.
 
 **What this supports:**
 This visualization makes a concentration risk argument that numbers alone do not communicate as clearly. Three categories — Set, Kurta, and Western Dress — generate approximately 91% of all revenue. The business is not diversified; it is built on a narrow product foundation. That is not inherently a problem, but it means any disruption to stock availability, pricing, or demand in those three categories would be felt immediately and severely across the entire business. This chart also highlights the gap between the top performers and everything else — Ethnic Dress, Blouse, Saree, and Dupatta are visible but barely. The visual makes the strategic case for either investing in those underperformers or rationalising them out entirely.
@@ -59,19 +61,21 @@ This visualization makes a concentration risk argument that numbers alone do not
 
 ### Visualization 3 — Geographic Revenue & Cancellation Rate Map of India
 
-![Visualization 3](images/viz3.png)
+<img width="913" height="568" alt="visualization three" src="https://github.com/user-attachments/assets/68b6bc68-e5ba-4b8a-b012-9fa53f723056" />
+
 
 **What is shown here:**
-A map of India with states shaded by revenue (darker = higher revenue) and a secondary layer or tooltip showing cancellation rate per state. Maharashtra and Karnataka lead in revenue; Kerala and Andhra Pradesh lead in cancellations.
+A map of India with states shaded by revenue — darker states indicate higher revenue. Maharashtra and Karnataka lead in revenue; Kerala and Andhra Pradesh lead in cancellations.
 
 **What this supports:**
-This is where the analysis gets strategically interesting. The states generating the most revenue are not necessarily the states with the best operational performance. Maharashtra, the top revenue state at ₹13.34M, has a manageable 13.32% cancellation rate. But Kerala — a significant market — sits at 17.84%. That gap matters. It means the business is generating demand in Kerala but losing nearly 1 in 5 orders before they complete. The map makes this tension geographic and therefore actionable — it tells a logistics or operations team exactly where to focus. Improving fulfilment in high-cancellation states does not require finding new customers; it requires serving existing ones better.
+This is where the analysis gets strategically interesting. The states generating the most revenue are not necessarily the states with the best operational performance. Maharashtra, the top revenue state at ₹13.34M, has a manageable 13.32% cancellation rate. But Kerala sits at 17.84% — meaning nearly 1 in 5 orders never completes. The map makes this tension geographic and therefore actionable — it tells a logistics or operations team exactly where to focus. Improving fulfilment in high-cancellation states does not require finding new customers; it requires serving existing ones better.
 
 ---
 
 ### Visualization 4 — Monthly Revenue Trend with Cancellation Overlay
 
-![Visualization 4](images/viz4.png)
+<img width="913" height="568" alt="visualization four" src="https://github.com/user-attachments/assets/4244d818-9bc7-4214-b414-6845b83c65b1" />
+
 
 **What is shown here:**
 A dual-axis line chart showing monthly revenue alongside cancellation volume across the dataset period. April 2022 peaks at ₹28.84M in revenue and 7,137 cancellations. Revenue declines through May and June, while cancellations decline proportionally.
@@ -91,8 +95,8 @@ This analysis confirms that the Amazon India operation is commercially strong bu
 
 - **SQL Queries & Scripts** → `sql/` folder
 - **Tableau Workbook** → `tableau/` folder
-- **Full Analysis Report** (every query explained in detail) → `analysis/full_analysis.docx`
-- **Executive Summary** (two-page overview written for recruiters) → `analysis/executive_summary.docx`
+- **Full Analysis Report** → `analysis/full_analysis.docx`
+- **Executive Summary** → `analysis/executive_summary.docx`
 
 ---
 
