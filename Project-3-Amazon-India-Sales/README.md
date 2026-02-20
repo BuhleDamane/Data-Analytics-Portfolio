@@ -35,7 +35,7 @@ The Tableau dashboard brings the written findings to life visually — turning q
 
 ### Visualization 1 — Executive KPI Summary Panel
 
-![Visualization 1](images/viz1.png)
+![Visualization 1](images/KPI Summary Panel.png)
 
 **What is shown here:**
 A top-level KPI banner displaying the four most important business metrics at a glance: Total Orders (120,378), Total Revenue (₹78.6M), Cancellation Rate (14.21%), and Average Order Value (₹609.36).
