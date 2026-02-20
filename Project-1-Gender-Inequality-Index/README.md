@@ -35,7 +35,6 @@ The short answer to that last question: almost perfectly. Every country in the l
 
 ### Visualization 1 — Top 10 Most Unequal vs Most Equal Countries (2021)
 
-![Visualization 1]
 
 <img width="913" height="568" alt="top10Unequal vs top10equal" src="https://github.com/user-attachments/assets/82efba96-d8e6-4045-ae10-647321bfc678" />
 
@@ -51,7 +50,6 @@ This visualization directly supports one of my strongest findings: the divide be
 
 ### Visualization 2 — Global GII Trend: 1990, 2000, 2010, 2021
 
-![Visualization 2]
 
 <img width="913" height="568" alt="Global Trend" src="https://github.com/user-attachments/assets/b1ed923b-7753-482b-abf3-1e7e6c4b1121" />
 
@@ -66,7 +64,6 @@ This is the most hopeful visual in the project. The line moves consistently down
 
 ### Visualization 3 — Average GII by Continent (2021)
 
-![Visualization 3]
 
 <img width="913" height="568" alt="Average By Continent" src="https://github.com/user-attachments/assets/bcf28337-c1e0-457c-b7ef-51868d728788" />
 
@@ -81,7 +78,6 @@ This visualization confirms that gender inequality is not just a country-level p
 
 ### Visualization 4 — Countries with the Greatest GII Improvement (1990–2021)
 
-![Visualization 4]
 
 <img width="913" height="568" alt="Biggest Improvements" src="https://github.com/user-attachments/assets/506366c6-0a19-46d0-a9cf-2e7aa79eb950" />
 
