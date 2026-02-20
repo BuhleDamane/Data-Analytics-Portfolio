@@ -5,13 +5,11 @@
 
 ## About Me
 
-I'm a multidisciplinary professional born and raised in **South Africa**, where I currently reside. My background spans law, technology, and data — a combination that gives me a unique perspective on how data and digital solutions can serve people and drive meaningful decisions.
+I was born and raised in South Africa, and it's where I currently call home. My background is a bit of a mix — I studied law, got into coding, and found my way into data analytics, and honestly I wouldn't have it any other way. Each discipline has shaped how I think and approach problems.
 
-I hold an **LLB from the University of Venda** and am currently advancing my studies with a **Master's in Human Rights Law at the University of South Africa (UNISA)**. My passion for continuous learning led me to expand into the tech space — completing a **Data Analytics programme with ALX (2024–2025)** and a **coding bootcamp with SheCodes (2023–present)**, where I earned multiple certificates across web development, Python, and AI.
+I have an LLB from the University of Venda, and I'm currently working towards my Master's in Human Rights Law at the University of South Africa (UNISA). Alongside that, I completed a Data Analytics programme with ALX (2024 to 2025), and I've been part of the SheCodes Bootcamp since 2023, where I've picked up skills in web development, Python, and AI.
 
-I'm someone who genuinely loves learning new things and constantly improving my skills. On my free time, you'll find me at choir practice, swimming, or spending time with family. And when it comes to "fun" in the professional sense — I love revisiting the basics, because it's easy to forget the fundamentals that hold everything together.
-
----
+I genuinely enjoy learning new things, and I make a point of going back to practice what I've already learned because it's easy to lose the basics if you're not careful. Outside of work and studying, I sing in my church choir, go swimming, and spend time with my family.
 
 ## 🎓 Education & Training
 
@@ -19,10 +17,8 @@ I'm someone who genuinely loves learning new things and constantly improving my 
 |---|---|---|
 | University of Venda | LLB (Bachelor of Laws) | Completed |
 | University of South Africa (UNISA) | Masters in Human Rights Law | In Progress |
-| ALX | Data Analytics Programme | 2024 – 2025 |
-| SheCodes | Full Stack & AI Coding Bootcamp | 2023 – Present |
-
----
+| ALX | Data Analytics Programme | 2024 to 2025 |
+| SheCodes | Coding Bootcamp | 2023 to Present |
 
 ## 🛠️ Technical Skills
 
@@ -38,8 +34,6 @@ I'm someone who genuinely loves learning new things and constantly improving my 
 - Responsive Web Design
 - React
 
----
-
 ## 📜 Certificates
 
 - Introduction to Coding
@@ -51,29 +45,19 @@ I'm someone who genuinely loves learning new things and constantly improving my 
 - Python Advanced
 - Introduction to AI
 
----
-
 ## 💼 Projects & Work
 
-This portfolio contains a collection of data analysis and development projects across my disciplines, including:
+This portfolio holds data analysis projects I've worked on, covering different tools and topics:
 
-- **Project 1 – Gender Inequality Index** — Analysing gender inequality trends using data tools
-- **Project 2 – Violence Against Women** — A data-driven exploration of gender-based violence statistics
-- **Project 3 – Amazon India Sales** — Sales analysis using SQL, Excel, Power BI, and Tableau
+- **Project 1: Gender Inequality Index** — Exploring gender inequality trends through data
+- **Project 2: Violence Against Women** — Looking at gender-based violence statistics
+- **Project 3: Amazon India Sales** — A sales analysis using SQL, Excel, Power BI, and Tableau
 
-Beyond these projects, I have written multiple articles and built several web development projects throughout my SheCodes journey — all of which have contributed to my growth across both the technical and analytical sides of my work.
-
----
+I've also written articles and built web projects through my SheCodes journey. Each one has taught me something, and I keep adding to this as I go.
 
 ## 🌍 Open to Opportunities
 
-I am actively seeking roles as a **Business Analyst**, **Data Analyst**, or any position that aligns with my disciplines in law, data, and technology. Although I am based in **South Africa**, I am open to:
-
-- ✅ Remote positions (local & international)
-- ✅ Contract roles
-- ✅ Part-time opportunities
-
----
+I'm looking for roles in Business Analysis, Data Analysis, or anything that connects to what I know and do. I'm based in South Africa, but I'm very open to remote work, contracts, and part-time roles as well.
 
 ## 📬 Contact & Links
 
@@ -82,7 +66,3 @@ I am actively seeking roles as a **Business Analyst**, **Data Analyst**, or any 
 | 📧 **Email** | [ziziphodamane@gmail.com](mailto:ziziphodamane@gmail.com) |
 | 💼 **LinkedIn** | [Buhle Damane](https://www.linkedin.com/in/buhle-damane) |
 | 🌐 **Portfolio** | [strong-marigold-ded066.netlify.app](https://strong-marigold-ded066.netlify.app) |
-
----
-
-*"Learning is not attained by chance; it must be sought for with ardour and attended to with diligence."*
