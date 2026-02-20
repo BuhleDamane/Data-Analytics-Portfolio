@@ -1,12 +1,16 @@
+You're right, I'm sorry! Here is your Gender Inequality Index README with your details updated:
+
+---
+
 # Project 1 — Gender Inequality Index Analysis
 
 ---
 
 ### Contact & Links
 
-- 📧 **Email:** [your.email@gmail.com]
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile]
-- 🔗 **Project Link:** [github.com/yourusername/project-1-gii]
+- 📧 **Email:** ziziphodamane@gmail.com
+- 💼 **LinkedIn:** [Buhle Damane](https://www.linkedin.com/in/buhle-damane)
+- 🌐 **Portfolio:** [strong-marigold-ded066.netlify.app](https://strong-marigold-ded066.netlify.app/)
 
 ---
 
@@ -35,7 +39,7 @@ The short answer to that last question: almost perfectly. Every country in the l
 
 ### Visualization 1 — Top 10 Most Unequal vs Most Equal Countries (2021)
 
-![Visualization 1](images/viz1.png)
+![Visualization 1](images/top10_most_unequal.csv)
 
 **What is shown here:**
 This chart places the 10 most unequal countries and the 10 most equal countries side by side, using their 2021 GII scores. The higher the bar, the worse the inequality.
@@ -91,8 +95,8 @@ This project confirmed that gender inequality and human development are deeply i
 
 - **SQL Queries & Scripts** → `sql/` folder
 - **Excel Workbook & Charts** → `excel/` folder
-- **Full Analysis Report** (every query explained in detail) → `analysis/full_analysis.docx`
-- **Executive Summary** (two-page overview written for recruiters) → `analysis/executive_summary.docx`
+- **Full Analysis Report** → `analysis/full_analysis.docx`
+- **Executive Summary** → `analysis/executive_summary.docx`
 
 ---
 
