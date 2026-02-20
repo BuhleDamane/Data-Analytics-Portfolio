@@ -1,7 +1,3 @@
-You're right, I'm sorry! Here is your Gender Inequality Index README with your details updated:
-
----
-
 # Project 1 — Gender Inequality Index Analysis
 
 ---
@@ -70,7 +66,10 @@ This is the most hopeful visual in the project. The line moves consistently down
 
 ### Visualization 3 — Average GII by Continent (2021)
 
-![Visualization 3](images/viz3.png)
+![Visualization 3]
+
+<img width="913" height="568" alt="Average By Continent" src="https://github.com/user-attachments/assets/bcf28337-c1e0-457c-b7ef-51868d728788" />
+
 
 **What is shown here:**
 A bar chart ranking all five continents from highest to lowest average GII score in 2021. Africa sits at the top (worst), Europe at the bottom (best).
@@ -82,7 +81,10 @@ This visualization confirms that gender inequality is not just a country-level p
 
 ### Visualization 4 — Countries with the Greatest GII Improvement (1990–2021)
 
-![Visualization 4](images/viz4.png)
+![Visualization 4]
+
+<img width="913" height="568" alt="Biggest Improvements" src="https://github.com/user-attachments/assets/506366c6-0a19-46d0-a9cf-2e7aa79eb950" />
+
 
 **What is shown here:**
 A horizontal bar chart showing the top 10 countries with the highest percentage improvement in GII score between 1990 and 2021, led by the United Arab Emirates at 92.6%.
