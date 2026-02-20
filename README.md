@@ -1,6 +1,5 @@
 # Data-Analytics-Portfolio
 
-
 # Hi there, I'm Buhle Damane 👋
 
 ## About Me
@@ -49,11 +48,16 @@ I genuinely enjoy learning new things, and I make a point of going back to pract
 
 This portfolio holds data analysis projects I've worked on, covering different tools and topics:
 
-- **Project 1: Gender Inequality Index** — Exploring gender inequality trends through data
-- **Project 2: Violence Against Women** — Looking at gender-based violence statistics
-- **Project 3: Amazon India Sales** — A sales analysis using SQL, Excel, Power BI, and Tableau
+**Project 1: Gender Inequality Index — Global Analysis Across 194 Countries, 1990–2021**
+I analysed 31 years of gender inequality data across 194 countries to understand where inequality is worst and what drives it. The strongest finding was how closely gender inequality tracks with a country's overall human development — poverty, low literacy, and inequality move together as a system. On the hopeful side, global average inequality dropped 34% over three decades, and the UAE improved by 92.6%, showing that rapid change is possible with real political will behind it.
 
-I've also written articles and built web projects through my SheCodes journey. Each one has taught me something, and I keep adding to this as I go.
+**Project 2: Violence Against Women and Girls — Attitudes Across 70 Countries, 2000–2017**
+This was survey data from 70 countries on whether people believe a husband is justified in using violence against his wife. The finding that stood out most: in nearly 89% of the surveyed countries, women justify violence against themselves at a higher rate than men do. Education came through as one of the most reliable protective factors, though in a handful of countries it had the opposite effect — which suggests the education system there may be reinforcing the very beliefs it should be challenging.
+
+**Project 3: Amazon India Sales — E-Commerce Performance Across 120,000+ Orders**
+I worked through 16 SQL queries across five business questions on a real Amazon India dataset covering 120,000+ orders. The most important finding was a 14.21% cancellation rate concentrated in the highest-revenue states and most valuable products — a measurable revenue leak sitting right at the heart of operations. I also identified B2B customers as an underserved segment: fewer orders than B2C, but 15% higher spend per order and far fewer cancellations.
+
+I've also written legal articles and built web projects through my SheCodes journey. Each one has taught me something, and I keep adding to this as I go.
 
 ## 🌍 Open to Opportunities
 
