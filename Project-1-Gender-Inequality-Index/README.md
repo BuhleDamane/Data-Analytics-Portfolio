@@ -55,7 +55,10 @@ This visualization directly supports one of my strongest findings: the divide be
 
 ### Visualization 2 — Global GII Trend: 1990, 2000, 2010, 2021
 
-![Visualization 2](images/viz2.png)
+![Visualization 2]
+
+<img width="913" height="568" alt="Global Trend" src="https://github.com/user-attachments/assets/b1ed923b-7753-482b-abf3-1e7e6c4b1121" />
+
 
 **What is shown here:**
 A line graph tracking the global average GII score at 10-year intervals across the full 31-year period of the dataset.
