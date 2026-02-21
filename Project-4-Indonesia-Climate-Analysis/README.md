@@ -3,7 +3,9 @@
 ### Contact & Links
 
 📧 **Email:** ziziphodamane@gmail.com
+
 💼 **LinkedIn:** [Buhle Damane](https://www.linkedin.com/in/buhle-damane)
+
 🌐 **Portfolio:** [strong-marigold-ded066.netlify.app](https://strong-marigold-ded066.netlify.app/)
 
 ## What Data Is Being Analyzed?
@@ -25,6 +27,9 @@ The headline finding is a +0.24°C temperature increase over the eleven year per
 
 ### Visualization 1 — Temperature Distribution
 
+<img width="4165" height="1763" alt="temperature_distribution" src="https://github.com/user-attachments/assets/a610b264-7add-4296-91b0-3a4afe529f0a" />
+
+
 **What is shown here:**
 A histogram and box plot showing how daily average temperatures are distributed across all 588,666 observations. The distribution clusters tightly between 25°C and 30°C with a mean of 26.88°C.
 
@@ -32,6 +37,9 @@ A histogram and box plot showing how daily average temperatures are distributed 
 Indonesia's tropical stability is the story here. Most countries show wide temperature distributions, cold winters pulling the average down and hot summers pushing it up. Indonesia shows almost none of that variation. The box plot confirms that the middle 50% of all daily temperatures fall within a 1.6°C band, from 26.3°C to 27.9°C. That stability is not just a meteorological curiosity. It is why Indonesia can support year-round agriculture and why temperature anomalies, when they do occur, are so ecologically significant. A country with little natural temperature variation has ecosystems and food systems calibrated to that narrow range. Deviations matter more precisely because they are rare.
 
 ### Visualization 2 — Monthly Temperature and Rainfall Patterns
+
+<img width="3572" height="1768" alt="monthly_temperature" src="https://github.com/user-attachments/assets/894cd0c2-b6b9-4d2e-8ffb-8b87c2d86770" />
+
 
 **What is shown here:**
 A dual visualization showing average temperature and average rainfall by month across the full eleven year dataset. Temperature peaks in May (27.25°C) and dips in July (26.47°C). Rainfall peaks in December and drops sharply through July and August.
@@ -41,6 +49,9 @@ This chart tells the story of Indonesia's two seasons, wet and dry, and how temp
 
 ### Visualization 3 — Yearly Temperature Trend 2010–2020
 
+<img width="3572" height="1767" alt="yearly_trend" src="https://github.com/user-attachments/assets/402622eb-c84c-4312-9d70-f82fc6cfec5b" />
+
+
 **What is shown here:**
 A line chart showing annual average temperature from 2010 to 2020 with a linear trend line overlaid. The trend shows a +0.24°C increase over the eleven year period.
 
@@ -48,6 +59,9 @@ A line chart showing annual average temperature from 2010 to 2020 with a linear 
 +0.24°C over eleven years is not a dramatic number in isolation, but context matters. Global average temperature has risen approximately 1.1°C since pre-industrial times, meaning Indonesia's measured rate aligns with the broader planetary warming signal rather than sitting as an outlier. What makes this finding credible is the dataset behind it: 588,666 daily observations from 173 stations, cleaned to remove impossible values before any trend calculation was performed. The trend line is not driven by corrupted data or a single anomalous year. It reflects a genuine, measured directional shift across more than a decade of real meteorological records. For a country whose agriculture, water supply, and coastal infrastructure are all sensitive to temperature change, even a modest confirmed trend is a policy-relevant finding.
 
 ### Visualization 4 — Correlation Heatmap of Climate Variables
+
+<img width="2617" height="2370" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/c80e2352-c6d7-4acf-886c-e4acd0e25b2d" />
+
 
 **What is shown here:**
 A correlation matrix showing the statistical relationship between all key climate variables including temperature minimum, maximum, and average, humidity, rainfall, sunshine hours, wind speed, and temperature range.
@@ -64,8 +78,11 @@ The technical pipeline behind these findings, Python data cleaning, MySQL queryi
 ## 📂 Where to Find Everything
 
 **Python Notebook** → `climate_analysis.ipynb`
+
 **SQL Queries** → `sql/` folder
+
 **Tableau Workbook** → `tableau/` folder
+
 **Cleaned Dataset** → `data/climate_data_cleaned.csv`
 
 *Thank you for reading. Feel free to reach out via the contact details at the top of this page. I am always open to discussion, feedback, and opportunities.*
