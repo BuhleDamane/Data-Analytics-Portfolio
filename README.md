@@ -74,6 +74,3 @@ I'm looking for roles in Business Analysis, Data Analysis, or anything that conn
 | 💼 **LinkedIn** | [Buhle Damane](https://www.linkedin.com/in/buhle-damane) |
 | 🌐 **Portfolio** | [strong-marigold-ded066.netlify.app](https://strong-marigold-ded066.netlify.app) |
 
----
-
-Now let's get back to the SQL queries for Day 4 whenever you're ready!
